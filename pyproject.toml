@@ -1,0 +1,12 @@
+[project]
+name = "agentmigration"
+version = "0.1.0"
+description = "Companion code for 'Transitioning Applications to Multi-Agent Architectures': the book's listings as runnable, tested Python."
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+test = ["pytest>=8"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

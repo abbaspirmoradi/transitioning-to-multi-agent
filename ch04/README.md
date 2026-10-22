@@ -1,0 +1,1 @@
+Chapter 4: the assessment worksheet is a spreadsheet, not code. The scoring rule (gate on evaluability >= 3 and reversibility >= 2, then rank by value/effort) is in the book; `evaluate.Row` is the same idea applied to gates.
